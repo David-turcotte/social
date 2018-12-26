@@ -136,6 +136,9 @@
 			</g>
 			</svg>
 		</a>
+		<a class="email-link" href="mailto:" target="_blank">
+			<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.96 13.19"><defs><style>.cls-1{fill:#282828;}</style></defs><title>courriel</title><path class="cls-1" d="M10.21,8.27a.7.7,0,0,1-.42-.13L1.62,2.52a.75.75,0,1,1,.86-1.24l7.73,5.33L18,1.28a.75.75,0,0,1,.85,1.24L10.64,8.14A.75.75,0,0,1,10.21,8.27Z"/><path class="cls-1" d="M18.42,12.47H2.05a.75.75,0,0,1-.75-.75V1.9a.76.76,0,0,1,.75-.75H18.42a.76.76,0,0,1,.75.75v9.82A.75.75,0,0,1,18.42,12.47ZM2.8,11H17.67V2.65H2.8Z"/></svg>
+		</a>
 	</div>	
 	
 </body>
